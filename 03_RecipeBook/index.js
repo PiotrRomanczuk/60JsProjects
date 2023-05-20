@@ -1,4 +1,7 @@
 const API_KEY = '3d31646544a94c96bf5df39f618e1bfc';
+// import dotenv from './node_modules/dotenv';
+
+// console.log(dotenv);
 
 const getRecipes = async () => {
 	const API_URL = 'https://api.spoonacular.com/';
